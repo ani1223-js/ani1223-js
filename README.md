@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ani1223-js
 - 👀 I’m interested in the world of web devoloping
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to build new project
 - 📫 How to reach me ...dasaniket@384gmail.com
 
